@@ -1,10 +1,18 @@
 {% extends 'base.html' %}
 
+{% load static %}
+
 {% block title %}Home{% endblock %}
 
 {% block content %}
 
 <h1 class="text-primary">Welcome</h1>
-
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+           <img src="{% static 'images/img_1.jpg' %}"  class="img-fluid" alt="">
+        </div>
+    </div>
+</div>
 {% endblock %}
 

@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-
+{% load static %}
 {% block title %}Services{% endblock %}
 
 {% block content %}
@@ -8,5 +8,12 @@
     <h1 class="text-primary">Our Services</h1>
     <p>Explore the services we offer</p>
 </div>
+    <div class="col sm-6">
+    <img src="{% static 'images/img_1.jpg'%}"  class="img-fluid" alt="">
+    </div>
 
+{% endblock %}
+
+{% block extra_links %}
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/font/bootstrap-icons.min.css">
 {% endblock %}

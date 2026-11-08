@@ -5,7 +5,136 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc04cd1-b41c-43fa-9e02-16d8b7c6a5f8" name="Changes" comment="Learning django">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/bg/bg-8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-hero-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-square-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-square-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-square-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-square-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/blog/blog-post-square-5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/clients/clients-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/clients/clients-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/clients/clients-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/clients/clients-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/clients/clients-5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/clients/clients-6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/clients/clients-7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/clients/clients-8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/cta/cta-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/hero-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/illustration/illustration-10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-f-12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-f-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-f-5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-f-7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-f-8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-f-9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-m-12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-m-13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-m-6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-m-7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/person/person-m-9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-portrait-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-portrait-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/portfolio/portfolio-portrait-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/services/services-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/steps/steps-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/steps/steps-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/steps/steps-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/why-us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/scss/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/aos/aos.cjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/aos/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/aos/aos.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/aos/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/aos/aos.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap-icons/bootstrap-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap-icons/bootstrap-icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/glightbox/css/glightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/glightbox/css/glightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/glightbox/js/glightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/glightbox/js/glightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/imagesloaded/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/php-email-form/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/swiper/swiper-bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/swiper/swiper-bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/vendor/waypoints/noframework.waypoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/student.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project1/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +145,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -23,67 +153,82 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ojwangabigael8-star&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ojwangabigael8-star/Django_project1.git&quot;,
+    &quot;accountId&quot;: &quot;b9f7c3ec-8ef0-4ffb-87b1-bf8d6dfac2e8&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/templates/index.html" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1363347147999359" />
-      <entry key="MS500" value="2.3979872808838403" />
-      <entry key="S2" value="4.433765822082092" />
-      <entry key="S5" value="6.420914580548634" />
-      <entry key="S10" value="9.84125688582001" />
-      <entry key="S30" value="17.08963039829712" />
-      <entry key="S60" value="23.84752420465347" />
-      <entry key="M2" value="35.886739846069084" />
-      <entry key="M5" value="56.44129512408902" />
-      <entry key="M10" value="73.16941437511545" />
-      <entry key="M15" value="83.13329034974879" />
-      <entry key="M30" value="102.3662858976452" />
-      <entry key="H1" value="133.4552057395506" />
-      <entry key="H2" value="180.4803206273282" />
-      <entry key="H4" value="230.23933619947945" />
-      <entry key="D1" value="301.6148151397884" />
-      <entry key="W1" value="318.10024114821783" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000003102" />
+      <entry key="S5" value="1.0000135346259647" />
+      <entry key="S10" value="1.0052606102993353" />
+      <entry key="S30" value="1.365885728308867" />
+      <entry key="S60" value="2.3768812506178807" />
+      <entry key="M2" value="4.503419005950283" />
+      <entry key="M5" value="10.169243138290254" />
+      <entry key="M10" value="17.605258595915508" />
+      <entry key="M15" value="23.24698496746175" />
+      <entry key="M30" value="37.98738930223436" />
+      <entry key="H1" value="78.56035284626354" />
+      <entry key="H2" value="167.49867136865194" />
+      <entry key="H4" value="286.4143604731525" />
+      <entry key="D1" value="496.2811941943125" />
+      <entry key="W1" value="551.1121804775913" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="3.6899677524103164E-200" />
-      <entry key="S5" value="1.98282324131961E-80" />
-      <entry key="S10" value="1.8483851415097773E-40" />
-      <entry key="S30" value="8.870325203176863E-14" />
-      <entry key="S60" value="4.20148668145977E-7" />
-      <entry key="M2" value="9.161041806453181E-4" />
-      <entry key="M5" value="0.09232741948846036" />
-      <entry key="M10" value="0.42984389921972244" />
-      <entry key="M15" value="0.7221779094712745" />
-      <entry key="M30" value="1.3631100585969795" />
-      <entry key="H1" value="2.538034351649129" />
-      <entry key="H2" value="4.193377986240581" />
-      <entry key="H4" value="5.69591644935404" />
-      <entry key="D1" value="7.543536903424736" />
-      <entry key="W1" value="7.932745068056242" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="3.329160857838019E-237" />
+      <entry key="S10" value="5.771343016498623E-119" />
+      <entry key="S30" value="4.108302181857576E-40" />
+      <entry key="S60" value="2.4598494764932024E-20" />
+      <entry key="M2" value="2.1049771598590866E-10" />
+      <entry key="M5" value="2.0239924420355923E-4" />
+      <entry key="M10" value="0.024068183761035925" />
+      <entry key="M15" value="0.1803024742691984" />
+      <entry key="M30" value="2.6437885809538804" />
+      <entry key="H1" value="12.699936984438736" />
+      <entry key="H2" value="29.283237406584856" />
+      <entry key="H4" value="45.386541430333594" />
+      <entry key="D1" value="66.52974865283329" />
+      <entry key="W1" value="71.18757342325974" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9634290001736292" />
-      <entry key="MS500" value="2.3325585068674988" />
-      <entry key="S2" value="4.405559123223306" />
-      <entry key="S5" value="6.4042906070651195" />
-      <entry key="S10" value="9.81447339245289" />
-      <entry key="S30" value="16.869710935346045" />
-      <entry key="S60" value="23.519052479810508" />
-      <entry key="M2" value="35.589343965767526" />
-      <entry key="M5" value="56.356863042904166" />
-      <entry key="M10" value="73.49427394781004" />
-      <entry key="M15" value="83.77947327277325" />
-      <entry key="M30" value="103.6838048943886" />
-      <entry key="H1" value="135.96067422630756" />
-      <entry key="H2" value="184.64882048325794" />
-      <entry key="H4" value="235.91817640287684" />
-      <entry key="D1" value="309.1544068789347" />
-      <entry key="W1" value="326.0323866779072" />
+      <entry key="MS100" value="8.357880542440655E-12" />
+      <entry key="MS500" value="0.006087223278597652" />
+      <entry key="S2" value="0.27932178451815026" />
+      <entry key="S5" value="0.6004107170873283" />
+      <entry key="S10" value="0.7791912969174963" />
+      <entry key="S30" value="1.2595614442030492" />
+      <entry key="S60" value="2.2827648385479304" />
+      <entry key="M2" value="4.406797731379936" />
+      <entry key="M5" value="10.06933260873578" />
+      <entry key="M10" value="17.537716427194358" />
+      <entry key="M15" value="23.345443923515884" />
+      <entry key="M30" value="40.56601753107594" />
+      <entry key="H1" value="91.20616538202445" />
+      <entry key="H2" value="196.7376835746265" />
+      <entry key="H4" value="331.7684780882312" />
+      <entry key="D1" value="562.8025927418537" />
+      <entry key="W1" value="622.2984516323648" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -95,28 +240,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.Django_project1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/Django_project1/static",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\PycharmProjects\Django_project1\static" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\Django_project1\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\PycharmProject\templates" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Django_project1" type="Python.DjangoServer" factoryName="Django server">
       <module name="Django_project1" />
@@ -125,6 +285,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_project1.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -162,7 +323,15 @@
       <workItem from="1793684079563" duration="11942000" />
       <workItem from="1793698901246" duration="2002000" />
       <workItem from="1793703681346" duration="247000" />
-      <workItem from="1793703986138" duration="5472000" />
+      <workItem from="1793703986138" duration="7041000" />
+      <workItem from="1793713669039" duration="2226000" />
+      <workItem from="1793719252130" duration="826000" />
+      <workItem from="1793721804041" duration="1178000" />
+      <workItem from="1793769714832" duration="6549000" />
+      <workItem from="1793808412832" duration="1554000" />
+      <workItem from="1793855993949" duration="4995000" />
+      <workItem from="1794165118867" duration="820000" />
+      <workItem from="1794166606466" duration="7465000" />
     </task>
     <task id="LOCAL-00001" summary="Learning django">
       <option name="closed" value="true" />
